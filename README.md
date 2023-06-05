@@ -3,16 +3,17 @@
 - Arcdps : https://www.deltaconnected.com/arcdps/
 
 ## Voici comment procéder :
+1. Télécharger arcdps_lang.ini
 
-1. Ouvrez votre Explorateur de fichier avec le raccourci : Windows + E
+2. Ouvrez votre Explorateur de fichier avec le raccourci : Windows + E
 
-2. Extraire l'archive dans le dossier "arcdps" se trouvant dans le dossier de Guild Wars 2. <br>
+3. Déplacez le fichier dans le dossier "arcdps" se trouvant dans le dossier de Guild Wars 2. <br>
    Exemple : "C:\Program Files (x86)\Guild Wars 2\addons\arcdps\"
 
    Si vous n'avez pas encore démarré le jeu avec ArcDPS, ces dossiers n'exitent pas encore. <br>
    Vous pouvez le créer manuellement afin de ne pas avoir a démarré le jeu.
 
-3. C'est terminé, quand ArcDPS sera actif, il sera en français.
+4. C'est terminé, quand ArcDPS sera actif, il sera en français.
 
 ## Important :
 
