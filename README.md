@@ -37,7 +37,7 @@
 2. Extraire l'archive dans le dossier "arcdps" se trouvant dans le dossier de Guild Wars 2. <br>
    Exemple : "C:\Program Files (x86)\Guild Wars 2\addons\arcdps\"
 
-   Si vous n'avez pas encore démarré le jeu avec ArcDPS, ces dossiers n'exitent pas encore. <br>
+   Si vous n'avez pas encore démarré le jeu avec ArcDPS, ces dossiers n'existent pas encore. <br>
    Vous pouvez le créer manuellement afin de ne pas avoir a démarré le jeu avant de mettre la police de caractère.
 
 3. C'est terminé, quand ArcDPS sera actif, il utilisera cette police de caractères.
