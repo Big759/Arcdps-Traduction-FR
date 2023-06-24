@@ -15,6 +15,8 @@
 
 4. C'est terminé, quand ArcDPS sera actif, il sera en français.
 
+Note : L'installation pour arcdps_table_lang.ini (Boon table) est identique.
+
 ## Important :
 
 - Si vous éditez le fichier, il est important de l'enregistrer avec l'encodage ANSI !
