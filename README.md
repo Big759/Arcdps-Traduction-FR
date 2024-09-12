@@ -1,5 +1,3 @@
-# La traduction est cassée avec la version d'arcdps du 11-09-2024 !!!
-
 # Arcdps-Traduction-FR
 
 - Arcdps : https://www.deltaconnected.com/arcdps/
