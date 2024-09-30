@@ -3,7 +3,7 @@
 - Arcdps : https://www.deltaconnected.com/arcdps/
 
 ## Installation :
-1. Télécharger **arcdps_lang.ini** (arcdps), **arcdps_table_lang.ini** (boon table) ou **arcdps_font** (police de caractères).
+1. Télécharger **arcdps_lang.ini** (arcdps) ou **arcdps_table_lang.ini** (boon table).
 
 2. Ouvrir l'Explorateur de fichiers ou avec le raccourci : Windows + E
 
