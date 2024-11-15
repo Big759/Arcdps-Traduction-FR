@@ -656,3 +656,12 @@
 	lang[LANG_COMMON_AS_NORMALIZED] = "normalized";
 	lang[LANG_COMMON_AS_ACCOUNTNAME] = "replace player with account name";
 	lang[LANG_COMMON_AS_NAMECHARWIDTH_TOOLTIP] = "Set to -1 to hide";
+	lang[LANG_COMMON_AS_DEFAULTBOSSES_TOOLTIP] = "Default bosses include raids (NM+CM), strikes (NM+CM),\nand fractals (CM)";
+	lang[LANG_COMMON_AS_WINDOWREMOVE_TOOLTIP] = "Removes bottom of the list";
+	lang[LANG_COMMON_AS_SORTADV_STRIPSTODOWNSOUTSQ] = "Strips contribution";
+	lang[LANG_COMMON_AS_SORTADV_STRIPSTODOWNSOUTSQPERSIST] = "Strips contribution";
+	lang[LANG_COMMON_AS_SORTADV_STRIPSTODOWNSOUTSQ_TOOLTIP] = "Strips since 2 seconds before target dropped below full health";
+	lang[LANG_COMMON_AS_BOSSIDSAPPLY_TOOLTIP] = "New instances of bosses only, does not affect bosses already spawned";
+	lang[LANG_COMMON_AS_SORTADV_CROWDCONTROLTODOWNSOUTSQ] = "Crowd control contribution";
+	lang[LANG_COMMON_AS_SORTADV_CROWDCONTROLTODOWNSOUTPERSIST] = "Crowd control contribution";
+	lang[LANG_COMMON_AS_SORTADV_CROWDCONTROLTODOWNSOUTSQ_TOOLTIP] = "Crowd control count since 2 seconds before target dropped below full health";
