@@ -33,7 +33,7 @@
   Avec "Notepad++" :
    - En ouvrant le fichier, aller dans le menu "Encodage" puis sélectionner "ANSI"
    - Aller dans le menu "Fichier" puis "Enregistrer sous ..."
-   - Puis enregistrer en ".ini" (MS ini file).
+   - Effectuer l'enregistrement en ".ini" (MS ini file).
 
 **font.ttf**
 - Il est possible d'utiliser une autre police de caractères que celle proposée.
