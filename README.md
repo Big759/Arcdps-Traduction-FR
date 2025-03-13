@@ -23,12 +23,17 @@
 **lang.ini**
 - Si le fichier est édité, il est important de l'enregistrer avec l'encodage ANSI !
 - Ne surtout pas l'enregistrer en UTF-8 sinon ArcDPS ne fonctionnera pas correctement <br>
-  ne tiendra pas compte des accents ou ne se chargera pas.
+  __ne tiendra pas compte des accents__ ou ne se chargera pas.
 
   Avec le "Bloc-notes" de Windows :
    - Aller dans le menu "Fichier" puis "Enregistrer sous ..."
    - Vérifier que l'encodage en bas de la fenêtre indique bien ANSI
    - L'enregistrement doit être en ".ini" et non en ".ini.txt" ou ".txt".
+
+  Avec "Notepad++" :
+   - En ouvrant le fichier, aller dans le menu "Encodage" puis sélectionner "ANSI"
+   - Aller dans le menu "Fichier" puis "Enregistrer sous ..."
+   - Puis enregistrer en ".ini" (MS ini file).
 
 **font.ttf**
 - Il est possible d'utiliser une autre police de caractères que celle proposée.
