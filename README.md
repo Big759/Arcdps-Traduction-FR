@@ -28,7 +28,7 @@
   Avec le "Bloc-notes" de Windows :
    - Aller dans le menu "Fichier" puis "Enregistrer sous ..."
    - Vérifier que l'encodage en bas de la fenêtre indique bien ANSI
-   - L'enregistrement doit être en ".ini" et non en ".ini.txt" ou ".txt".
+   - Effectuer l'enregistrement en ".ini" et non en ".ini.txt" ou ".txt".
 
   Avec "Notepad++" :
    - En ouvrant le fichier, aller dans le menu "Encodage" puis sélectionner "ANSI"
