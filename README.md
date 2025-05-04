@@ -1,6 +1,7 @@
 # Arcdps-Traduction-FR
 
 - Arcdps : https://www.deltaconnected.com/arcdps/
+- Raidcore (Nexus) : https://raidcore.gg/Nexus
 
 ## Installation :
 1. Télécharger **arcdps_lang.ini** (arcdps) ou **arcdps_table_lang.ini** (boon table).
@@ -8,7 +9,7 @@
 2. Ouvrir l'Explorateur de fichiers ou avec le raccourci : Windows + E
 
 3. Déplacer le fichier dans le dossier "arcdps" se trouvant dans le dossier de Guild Wars 2. <br>
-   Exemple : "C:\Program Files (x86)\Guild Wars 2\addons\arcdps\"
+   Exemple : <code>"C:\Program Files (x86)\Guild Wars 2\addons\arcdps\"</code>
 
    Si le jeu n'a pas encore été lancé avec ArcDPS ces dossiers n'existent pas. <br>
    Il est possible de le créer manuellement afin de ne pas avoir à démarrer le jeu.
@@ -26,16 +27,17 @@
   __ne tiendra pas compte des accents__ ou ne se chargera pas.
 
   Avec le "Bloc-notes" de Windows :
-   - Aller dans le menu "Fichier" puis "Enregistrer sous ..."
+   - Aller dans le menu <code>"Fichier"</code> puis <code>"Enregistrer sous ..."</code>
    - Vérifier que l'encodage en bas de la fenêtre indique bien ANSI
    - Effectuer l'enregistrement en ".ini" et non en ".ini.txt" ou ".txt".
 
   Avec "Notepad++" :
-   - En ouvrant le fichier, aller dans le menu "Encodage" puis sélectionner "ANSI"
-   - Aller dans le menu "Fichier" puis "Enregistrer sous ..."
+   - En ouvrant le fichier, aller dans le menu <code>"Encodage"</code> puis sélectionner <code>"ANSI"</code>
+   - Aller dans le menu <code>"Fichier"</code> puis <code>"Enregistrer sous ..."</code>
    - Effectuer l'enregistrement en ".ini" (MS ini file).
 
 **font.ttf**
 - Il est possible d'utiliser une autre police de caractères que celle proposée.
 - Elle doit impérativement être au format TTF (True Type Fonts).
-- Elle doit aussi être renommée "arcdps_font.ttf" afin qu'ArcDPS puisse la charger.
+- **Arcdps :** Elle doit être renommée "arcdps_font.ttf" afin qu'ArcDPS puisse la charger.
+- **Raidcore (Nexus) :** Elle doit être placée dans le dossier <code>...\Guild Wars 2\addons\Nexus\Fonts</code> et sélectionnée dans les options de style du menu Nexus. Le nommage n'a pas d'importance.
