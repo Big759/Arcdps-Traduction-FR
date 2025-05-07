@@ -2,6 +2,7 @@
 
 - Arcdps : https://www.deltaconnected.com/arcdps/
 - Raidcore (Nexus) : https://raidcore.gg/Nexus
+- La traduction française la plus récente est disponible [ICI](https://github.com/Big759/Arcdps-Traduction-FR/releases)
 
 ## Installation :
 1. Télécharger **arcdps_lang.ini** (arcdps) ou **arcdps_table_lang.ini** (boon table).
