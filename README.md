@@ -15,7 +15,7 @@
    Si le jeu n'a pas encore été lancé avec ArcDPS ces dossiers n'existent pas. <br>
    Il est possible de le créer manuellement afin de ne pas avoir à démarrer le jeu.
 
-4. Terminé, quand ArcDPS sera actif, il sera en français.
+4. Terminé, au prochain lancement ArcDPS sera en français.
 
 # Arcdps-Font
    - Police de caractère utilisée : "Roboto Medium".
