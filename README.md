@@ -29,8 +29,10 @@
 
   Avec le "Bloc-notes" de Windows :
    - Aller dans le menu <code>"Fichier"</code> puis <code>"Enregistrer sous ..."</code>
-   - Vérifier que l'encodage en bas de la fenêtre indique bien ANSI
-   - Effectuer l'enregistrement en ".ini" et non en ".ini.txt" ou ".txt".
+   - (Re)nommer le fichier "lang" et ajouter ".ini" à la fin (lang.ini).
+   - Sélectionner le type <code>"Tous les fichiers"</code>.
+   - Vérifier que l'encodage en bas de la fenêtre indique bien <code>ANSI</code>
+   - Vérifier que l'enregistrement a bien été effectué en ".ini" et non en ".ini.txt" ou ".txt".
 
   Avec "Notepad++" :
    - En ouvrant le fichier, aller dans le menu <code>"Encodage"</code> puis sélectionner <code>"ANSI"</code>
