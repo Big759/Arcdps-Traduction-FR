@@ -4,6 +4,8 @@
 - Raidcore (Nexus) : https://raidcore.gg/Nexus
 - **Téléchargement :** La traduction française la plus récente est disponible [ICI](https://github.com/Big759/Arcdps-Traduction-FR/releases)
 
+![alt text](https://github.com/Big759/Arcdps-Traduction-FR/blob/main/Capture.png?raw=true)
+
 ## Installation :
 1. Télécharger **arcdps_lang.ini** (arcdps) ou **arcdps_table_lang.ini** (boon table).
 
