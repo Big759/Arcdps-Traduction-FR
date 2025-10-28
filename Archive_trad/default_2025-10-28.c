@@ -691,3 +691,4 @@
 	lang[LANG_COMMON_AS_MAPIDSBLACKLIST] = "blacklist mode";
 	lang[LANG_COMMON_AS_MAPIDSBLACKLIST_TOOLTIP] = "Log all instance maps except those on the map ID list";
 	lang[LANG_COMMON_AS_REMOVE_TOOLTIP] = "Remove";
+	lang[LANG_COMMON_AS_TITLENOCLOSE] = "hide close button in title bar";
