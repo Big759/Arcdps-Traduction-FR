@@ -1,7 +1,6 @@
 # Arcdps-Traduction-FR
 
 - Arcdps : https://www.deltaconnected.com/arcdps/
-- Raidcore (Nexus) : https://raidcore.gg/Nexus
 - **Téléchargement :** La traduction française la plus récente est disponible [ICI](https://github.com/Big759/Arcdps-Traduction-FR/releases)
 
 ![alt text](https://github.com/Big759/Arcdps-Traduction-FR/blob/main/Capture.png?raw=true)
@@ -45,5 +44,5 @@
 - Il est possible d'utiliser une autre police de caractères que celle proposée.
 - Elle doit impérativement être au format TTF (True Type Fonts).
 - **Arcdps :** Elle doit être renommée "arcdps_font.ttf" afin qu'ArcDPS puisse la charger.
-- **Raidcore (Nexus) :** Elle doit être placée dans le dossier <code>...\Guild Wars 2\addons\Nexus\Fonts</code> et sélectionnée dans les options de style du menu Nexus. Le nommage n'a pas d'importance.
+- **[Raidcore (Nexus)](https://raidcore.gg/Nexus) :** Elle doit être placée dans le dossier <code>...\Guild Wars 2\addons\Nexus\Fonts</code> et sélectionnée dans les options de style du menu Nexus. Le nommage n'a pas d'importance.
 - Taille de la police recommandée : 13.0
