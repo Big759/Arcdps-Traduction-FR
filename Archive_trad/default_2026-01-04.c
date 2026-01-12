@@ -694,3 +694,6 @@
 	lang[LANG_COMMON_AS_TITLENOCLOSE] = "hide close button in title bar";
 	lang[LANG_COMMON_AS_RESTARTTOUPDATE_RUNNING] = "update running";
 	lang[LANG_COMMON_AS_STATUS] = "status";
+	lang[LANG_COMMON_AS_SHOWSQUADPLACEHOLDERS] = "show placeholders with history";
+	lang[LANG_COMMON_AS_SHOWSQUADPLACEHOLDERS_TOOLTIP] = "Squad fights (squad combat time) only";
+	lang[LANG_COMMON_AS_MEMSHARED] = "Mem shared";
