@@ -25,8 +25,7 @@
 ## Notes :
 **lang.ini**
 - Si le fichier est édité, il est important de l'enregistrer avec l'encodage ANSI !
-- Ne surtout pas l'enregistrer en UTF-8 sinon ArcDPS ne fonctionnera pas correctement <br>
-  __ne tiendra pas compte des accents__ ou ne se chargera pas.
+- Ne surtout pas l'enregistrer en UTF-8 sinon ArcDPS ne fonctionnera pas correctement, __ne tiendra pas compte des accents__ ou ne se chargera pas.
 
   Avec le "Bloc-notes" de Windows :
    - Aller dans le menu <code>"Fichier"</code> puis <code>"Enregistrer sous ..."</code>
