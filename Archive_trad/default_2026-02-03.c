@@ -697,3 +697,5 @@
 	lang[LANG_COMMON_AS_SHOWSQUADPLACEHOLDERS] = "show placeholders with history";
 	lang[LANG_COMMON_AS_SHOWSQUADPLACEHOLDERS_TOOLTIP] = "Squad fights (squad combat time) only";
 	lang[LANG_COMMON_AS_MEMSHARED] = "Mem shared";
+	lang[LANG_COMMON_AS_VERSIONCHECKBETA] = "include beta releases";
+	lang[LANG_COMMON_AS_CSK_GENERICINVALID] = "(invalid)";
