@@ -2,6 +2,7 @@
 
 - Arcdps : https://www.deltaconnected.com/arcdps/ (par deltaconnected)
 - **Téléchargement :** La traduction française la plus récente est disponible [ICI](https://github.com/Big759/Arcdps-Traduction-FR/releases/latest)
+- Le projet est aussi disponible sur Codeberg [ICI](https://codeberg.org/Big_or_no/Arcdps-Traduction-FR)
 
 ![alt text](https://github.com/Big759/Arcdps-Traduction-FR/blob/main/Capture.png?raw=true)
 
