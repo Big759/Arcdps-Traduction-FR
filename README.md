@@ -7,6 +7,7 @@
 ![alt text](https://github.com/Big759/Arcdps-Traduction-FR/blob/main/Capture.png?raw=true)
 
 ## Installation :
+### Windows
 1. Télécharger **arcdps_lang.ini** (arcdps) ou **arcdps_table_lang.ini** ([boon table](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)).
 
 2. Ouvrir l'Explorateur de fichiers ou avec le raccourci : Windows + E
@@ -17,7 +18,7 @@
    Si le jeu n'a pas encore été lancé avec ArcDPS ces dossiers n'existent pas. <br>
    Il est possible de le créer manuellement afin de ne pas avoir à démarrer le jeu.
 
-4. Terminé, au prochain lancement ArcDPS sera en français.
+4. Au prochain lancement ArcDPS sera en français.
 
 # Arcdps-Font
    - Police de caractère utilisée : "Roboto Medium".
