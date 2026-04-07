@@ -29,7 +29,8 @@
 - Si le fichier est édité, il est important de l'enregistrer avec l'encodage ANSI !
 - Ne surtout pas l'enregistrer en UTF-8 sinon ArcDPS ne fonctionnera pas correctement, __ne tiendra pas compte des accents__ ou ne se chargera pas.
 
-  Avec le "Bloc-notes" de Windows :
+# Windows
+  Avec le "Bloc-notes" :
    - Aller dans le menu <code>"Fichier"</code> puis <code>"Enregistrer sous ..."</code>
    - (Re)nommer le fichier "lang" et ajouter ".ini" à la fin (lang.ini).
    - Sélectionner le type <code>"Tous les fichiers"</code>.
@@ -40,6 +41,12 @@
    - En ouvrant le fichier, aller dans le menu <code>"Encodage"</code> puis sélectionner <code>"ANSI"</code>
    - Aller dans le menu <code>"Fichier"</code> puis <code>"Enregistrer sous ..."</code>
    - Effectuer l'enregistrement en ".ini" (MS ini file).
+
+# Linux
+  Avec "Kate" :
+   - Aller dans le menu <code>"Fichier"</code> puis <code>"Enregistrer sous (avec encodage OU sélectionner directement en bas à droite de la fenêtre)..."</code>
+   - Sélectionner le format Europe de l'ouest <code>cp 1252</code>.
+   - Effectuer l'enregistrement en ".ini" (arcdps_lang.ini).
 
 **font.ttf**
 - Il est possible d'utiliser une autre police de caractères que celle proposée.
