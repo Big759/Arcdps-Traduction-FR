@@ -168,7 +168,7 @@
 
 	/* panels: options */
 	lang[LANG_PAN_OPTIONS_HEADER] = "Options";
-	lang[LANG_PAN_OPTIONS_OTHERWINDOWS] = "Other Windows";
+	lang[LANG_PAN_OPTIONS_OTHERWINDOWS] = "Debug Windows";
 	lang[LANG_PAN_OPTIONS_INTERFACE] = "Interface";
 	lang[LANG_PAN_OPTIONS_BS_SAVELOGS] = "save boss logs";
 	lang[LANG_PAN_OPTIONS_BS_NPCINPATH] = "use trigger name in save path";
@@ -246,7 +246,6 @@
 	lang[LANG_COMMON_AS_SIMDISABLED] = "Simulation disabled";
 	lang[LANG_COMMON_AS_SORTSTATS] = "stats";
 	lang[LANG_COMMON_AS_SHOWADVANCEDSTYLEOPTSRETROACTIVE] = "Changes to default style will not\napply when set";
-	lang[LANG_COMMON_AS_HISTORY] = "history";
 	lang[LANG_COMMON_AS_SORTADV_TIMESDOWNSQ] = "Times downed";
 	lang[LANG_COMMON_AS_SORTADV_TIMESDOWNPERSIST] = "Time between downing";
 	lang[LANG_COMMON_AS_SORTADV_TIMESDIEDSQ] = "Times died";
@@ -274,15 +273,12 @@
 	lang[LANG_COMMON_AS_SORTADV_DPSINSQ] = "Damage taken";
 	lang[LANG_COMMON_AS_ALWAYSSHOWWINDOWS] = "always draw windows";
 	lang[LANG_COMMON_AS_PERSISTPARTYRESET] = "reset on squad join and leave";
-	lang[LANG_COMMON_AS_PERSISTPROFRESET] = "reset on profession change";
 	lang[LANG_COMMON_AS_SAVEWVWLOGS] = "save wvw logs";
 	lang[LANG_COMMON_AS_SAVEWVWLOGSTHRESHOLDMIN] = "minimum squad participants";
 	lang[LANG_COMMON_AS_SAVEWVWLOGSTHRESHOLDMAX] = "maximum squad participants";
 	lang[LANG_COMMON_AS_SAVEWVWLOGSINFO] = "WvW logging";
 	lang[LANG_COMMON_AS_SAVEWVWLOGSENEMYMIN] = "minimum enemy player participants";
 	lang[LANG_COMMON_AS_ADVANCEDFUNCOPTS] = "Advanced";
-	lang[LANG_COMMON_AS_PERSISTBUILDRESET] = "reset on build change";
-	lang[LANG_COMMON_AS_OPTSTIME] = "combat time";
 	lang[LANG_COMMON_AS_DRAWBARS] = "draw bars";
 	lang[LANG_COMMON_AS_SUBGROUP] = "subgroup";
 	lang[LANG_COMMON_AS_TOPSUBGROUPS] = "top subgroups";
@@ -338,7 +334,7 @@
 	lang[LANG_COMMON_AS_SORTADV_TAGDISTSQ] = "Distance to tag";
 	lang[LANG_COMMON_AS_WVW] = "WvW";
 	lang[LANG_COMMON_AS_PVE] = "PvE";
-	lang[LANG_COMMON_AS_SORTADVSQCURRENTINFO] = "Primary stat";
+	lang[LANG_COMMON_AS_PRIMARYSTAT] = "Primary stat";
 	lang[LANG_COMMON_AS_PERSISTINFO] = "Normalized stats";
 	lang[LANG_COMMON_AS_SORTADV_KILLSOUTPERSIST] = "Kills count";
 	lang[LANG_COMMON_AS_SORTADV_KILLSOUTSQ] = "Kills count";
@@ -389,8 +385,6 @@
 	lang[LANG_COMMON_AS_SQSTAT_BUFFIN] = "buff in";
 	lang[LANG_COMMON_AS_SQSTAT_SQUADROWS] = "squad rows";
 	lang[LANG_COMMON_AS_SQSTAT_MAX] = "max";
-	lang[LANG_COMMON_AS_SQSTAT_TIMING] = "timing";
-	lang[LANG_COMMON_AS_SQSTAT_TIMINGINFO] = "Graph time options";
 	lang[LANG_COMMON_AS_KEYS_GRAPHS] = "graphs";
 	lang[LANG_COMMON_AS_DEFAULTSQUADLOGNAME] = "WvW";
 	lang[LANG_COMMON_AS_COMBINEDMEMORYLIMIT] = "combined memory limit";
@@ -427,7 +421,6 @@
 	lang[LANG_COMMON_AS_HOSTILE] = "hostile";
 	lang[LANG_COMMON_AS_FRIENDLY] = "friendly";
 	lang[LANG_COMMON_AS_RANGE] = "range";
-	lang[LANG_COMMON_AS_SHOWHIDDEN] = "show hidden buffs";
 	lang[LANG_COMMON_AS_HIDDEN] = "hidden";
 	lang[LANG_COMMON_AS_SHOWTARGET] = "show target";
 	lang[LANG_COMMON_AS_SQSTAT_DPSOUT_TARGET] = "dps out target";
@@ -505,7 +498,6 @@
 	lang[LANG_COMMON_AS_MINIONS] = "minions";
 	lang[LANG_COMMON_AS_HIDEOUTOFCOMBAT] = "hide windows out of combat";
 	lang[LANG_COMMON_AS_LOGCH_ERROR] = "errors";
-	lang[LANG_COMMON_AS_NOFRIENDLYHISTORY] = "keep for self only";
 	lang[LANG_COMMON_AS_HISTORYHIGHMEMLIMIT] = "high memory use, some history will be removed";
 	lang[LANG_COMMON_AS_TARGETBAR] = "target bar";
 	lang[LANG_COMMON_AS_CLEAVEBAR] = "cleave bar";
@@ -524,7 +516,6 @@
 	lang[LANG_COMMON_AS_SORTPROFESSION] = "sort by profession";
 	lang[LANG_COMMON_AS_NOOPENCRASHLOG] = "don't automatically open crash log";
 	lang[LANG_COMMON_AS_OPTSTIMEINFOSIMPLE] = "Combat time range";
-	lang[LANG_COMMON_AS_RESETDEFAULTS] = "reset defaults";
 	lang[LANG_COMMON_AS_DRAG_TOOLTIP] = "Drag";
 	lang[LANG_COMMON_AS_KEYS_SELFSTATS] = "self stats";
 	lang[LANG_COMMON_AS_KEYS_SELFSKILLS] = "self skills";
@@ -535,7 +526,6 @@
 	lang[LANG_COMMON_AS_MEGABYTES] = "MBs";
 	lang[LANG_COMMON_AS_NOWARNNONESSENTIALPATTERNS] = "hide nonessential pattern error";
 	lang[LANG_COMMON_AS_VERSIONCHECKLANG] = "check for translation updates";
-	lang[LANG_COMMON_AS_HISTORICAL_INDIVIDUAL] = "individual fights to keep";
 	lang[LANG_COMMON_AS_SHOWTABS_INOUT] = "title bar in/out buttons";
 	lang[LANG_COMMON_AS_SHOWTABS_PAGE] = "title bar lists buttons";
 	lang[LANG_COMMON_AS_SHOWTABS_METHOD] = "title bar method buttons";
@@ -602,13 +592,11 @@
 	lang[LANG_COMMON_AS_CSK_GENERICSTAGGER] = "Generic Stagger";
 	lang[LANG_COMMON_AS_SHARED_IMGUI] = "Using shared ImGui context, style\noptions not managed";
 	lang[LANG_COMMON_AS_SORTADV_UNITSSECPERSEC] = "s/s";
-	lang[LANG_COMMON_AS_OPTSUSEGROUPLOG] = "use squad for combat duration";
 	lang[LANG_COMMON_AS_HISTORICAL] = "historical";
-	lang[LANG_COMMON_AS_GROUP] = "group";
 	lang[LANG_COMMON_AS_BUFFDISTRIBUTION] = "buff distribution";
 	lang[LANG_COMMON_AS_BUFFDISTRIBUTION_SHORT] = "d";
 	lang[LANG_COMMON_AS_HISTORY_CURRENT] = "current";
-	lang[LANG_COMMON_AS_HISTORY_GROUP] = "group history";
+	lang[LANG_COMMON_AS_HISTORY] = "history";
 	lang[LANG_COMMON_AS_LASTMS] = "last";
 	lang[LANG_COMMON_AS_DEFAULTSQUADLOGNAME_PVE] = "PvE";
 	lang[LANG_COMMON_AS_PLAYERSUBGROUPCOLOURS] = "use subgroup for player colours";
@@ -623,7 +611,7 @@
 	lang[LANG_COMMON_AS_TIMERANGEROLLING_SHORT] = "r";
 	lang[LANG_COMMON_AS_FILTER] = "filter";
 	lang[LANG_COMMON_AS_SQSTAT_HIDESUBGROUPS] = "Hide subgroups";
-	lang[LANG_COMMON_AS_CALCBUFFALWAYSACTIVE_TOOLTIP] = "Ignore buff active flag for calculation";
+	lang[LANG_COMMON_AS_CALCBUFFALWAYSACTIVE_TOOLTIP] = "Calculate ignoring buff active flag";
 	lang[LANG_COMMON_AS_STATSEXCLUDEINFO_BUFFS] = "Exclude events from calculation. Affects\nall events for volume, damage hits for\nhits uptime, no effect on poll uptime";
 	lang[LANG_COMMON_AS_STATSEXCLUDEINFO_GENERIC] = "Exclude events from calculation";
 	lang[LANG_COMMON_AS_MINLOGDURATION] = "ignore logs shorter than";
@@ -631,7 +619,7 @@
 	lang[LANG_COMMON_AS_FORMAT] = "Format";
 	lang[LANG_COMMON_AS_NORMALIZED] = "normalized";
 	lang[LANG_COMMON_AS_ACCOUNTNAME] = "replace player with account name";
-	lang[LANG_COMMON_AS_NAMECHARWIDTH_TOOLTIP] = "Set to -1 to hide";
+	lang[LANG_COMMON_AS_ZEROHIDE_TOOLTIP] = "Set to -1 to hide";
 	lang[LANG_COMMON_AS_DEFAULTBOSSES_TOOLTIP] = "Default bosses include raids (NM+CM), strikes (NM+CM), and fractals (CM).\nMust be enabled prior to squad entering combat to log";
 	lang[LANG_COMMON_AS_WINDOWREMOVE_TOOLTIP] = "Removes bottom of the list";
 	lang[LANG_COMMON_AS_SORTADV_STRIPSTODOWNSOUTSQ] = "Downs strips contribution";
@@ -646,11 +634,10 @@
 	lang[LANG_COMMON_AS_IGNOREWVWCONDITIONSHISTORICAL] = "ignore WvW conditions for historical";
 	lang[LANG_COMMON_AS_IGNOREWVWCONDITIONSHISTORICAL_TOOLTIP] = "Only requires player damage";
 	lang[LANG_COMMON_AS_CALCBUFFSINGLEONLY_TOOLTIP] = "Calculate as uptime percentage instead of average";
-	lang[LANG_COMMON_AS_WVWOPTIONSPLIT_TOOLTIP] = "Option is split between WvW and PvE";
 	lang[LANG_COMMON_AS_ACTIVATIONSECOND_SHORT] = "as";
 	lang[LANG_COMMON_AS_SORTADV_NEGATEDSQ] = "Negated attacks";
 	lang[LANG_COMMON_AS_SORTADV_NEGATEDPERSIST] = "Negated attacks";
-	lang[LANG_COMMON_AS_SORTADV_NEGATEDSQ_TOOLTIP] = "Sum of invuln, absorbed, evaded, missed, zero damage";
+	lang[LANG_COMMON_AS_SORTADV_NEGATEDSQ_TOOLTIP] = "Count of blocked, absorbed, evaded, missed, and zero damage hits";
 	lang[LANG_COMMON_AS_TITLEFORMATBUFFS] = "title bar format";
 	lang[LANG_COMMON_AS_TITLEFORMATBUFFS_TOOLTIP] = "@5: target name";
 	lang[LANG_COMMON_AS_NORMALIZEDROLLING] = "rolling";
@@ -663,11 +650,11 @@
 	lang[LANG_COMMON_AS_CHATLOGDEBUG] = "Debug window for comparing chat log to simulated";
 	lang[LANG_COMMON_AS_KEYS_TOOLTIP] = "Stats, buffs, and graphs hotkeys are found in those windows' context menu";
 	lang[LANG_COMMON_AS_UNSUPPORTEDINADDONMODE] = "Unsupported when running in addon mode";
-	lang[LANG_COMMON_AS_SORTADV_MISSILEHITSQ] = "Missile Effectiveness";
-	lang[LANG_COMMON_AS_SORTADV_MISSILEHITPERSIST] = "Missile Effectiveness";
+	lang[LANG_COMMON_AS_SORTADV_MISSILEHITSQ] = "Missile effectiveness";
+	lang[LANG_COMMON_AS_SORTADV_MISSILEHITPERSIST] = "Missile effectiveness";
 	lang[LANG_COMMON_AS_SORTADV_MISSILEHIT_TOOLTIP] = "Missile launch to hit ratio (tooltip: miss rate)";
-	lang[LANG_COMMON_AS_SORTADV_MISSILEFRIENDLYFIRESQ] = "Missile Friendly Fire";
-	lang[LANG_COMMON_AS_SORTADV_MISSILEFRIENDLYFIREPERSIST] = "Missile Friendly Fire";
+	lang[LANG_COMMON_AS_SORTADV_MISSILEFRIENDLYFIRESQ] = "Missile friendly fire";
+	lang[LANG_COMMON_AS_SORTADV_MISSILEFRIENDLYFIREPERSIST] = "Missile friendly fire";
 	lang[LANG_COMMON_AS_SORTADV_MISSILEFRIENDLYFIRE_TOOLTIP] = "Damage to allies from missile reflection";
 	lang[LANG_COMMON_AS_SKILLS_MISSILERATIO] = "missiles";
 	lang[LANG_COMMON_AS_CLEARCHANNELCURRENT] = "clear current";
@@ -675,8 +662,6 @@
 	lang[LANG_COMMON_AS_MAPIDS] = "Map IDs";
 	lang[LANG_COMMON_AS_MAPIDSADD_TOOLTIP] = "Map ID can be found in the metrics window tooltip. Logging will not\nstart until re-loading into the map";
 	lang[LANG_COMMON_AS_SAVEWVWLOGS_TOOLTIP] = "Must be enabled prior to squad entering combat to log";
-	lang[LANG_COMMON_AS_SAVEMAPLOGSNONIMMEDIATE] = "delay log end for squad map exit";
-	lang[LANG_COMMON_AS_SAVEMAPLOGSNONIMMEDIATE_TOOLTIP] = "Will not save logs if exiting client while squad still on map";
 	lang[LANG_COMMON_AS_PROF_LUMINARY] = "Lum";
 	lang[LANG_COMMON_AS_PROF_PARAGON] = "Par";
 	lang[LANG_COMMON_AS_PROF_AMALGAM] = "Amg";
@@ -695,7 +680,18 @@
 	lang[LANG_COMMON_AS_RESTARTTOUPDATE_RUNNING] = "update running";
 	lang[LANG_COMMON_AS_STATUS] = "status";
 	lang[LANG_COMMON_AS_SHOWSQUADPLACEHOLDERS] = "show placeholders with history";
-	lang[LANG_COMMON_AS_SHOWSQUADPLACEHOLDERS_TOOLTIP] = "Squad fights (squad combat time) only";
 	lang[LANG_COMMON_AS_MEMSHARED] = "Mem shared";
 	lang[LANG_COMMON_AS_VERSIONCHECKBETA] = "include beta releases";
 	lang[LANG_COMMON_AS_CSK_GENERICINVALID] = "(invalid)";
+	lang[LANG_COMMON_AS_CSK_GADGETINTERACT] = "Generic gadget interact";
+	lang[LANG_COMMON_AS_CSK_EMOTE] = "Generic emote";
+	lang[LANG_COMMON_AS_MAPAGE] = "Map age";
+	lang[LANG_COMMON_AS_SORTADV_TIMEALIVESQ] = "Time spent alive";
+	lang[LANG_COMMON_AS_SORTADV_TIMEALIVEPERSIST] = "Time spent alive";
+	lang[LANG_COMMON_AS_SORTADV_TIMEALIVE_TOOLTIP] = "Time spent not dead or down";
+	lang[LANG_COMMON_AS_REFRESH_PER_SECOND] = "window refreshes per second";
+	lang[LANG_COMMON_AS_REFRESH_PER_SECOND_TOOLTIP] = "Fraction for slower than 1/s";
+	lang[LANG_COMMON_AS_PRIMARYSTAT_TOOLTIP] = "Stat used for sorting\nCurrent fight: from first player combat enter to last player combat exit\nNormalized: accumulated per-player individually, reset as per interface options";
+	lang[LANG_COMMON_AS_SORTINVERSE] = "inverse sort order";
+	lang[LANG_COMMON_AS_GRAPHS] = "graphs";
+	lang[LANG_COMMON_AS_PERSISTINFO_TOOLTIP] = "Will always reset on build change";
