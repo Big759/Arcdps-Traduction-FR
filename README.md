@@ -45,7 +45,7 @@
 ### Linux
   Avec "Kate" :
    - Aller dans le menu <code>"Fichier"</code> puis <code>"Enregistrer sous (avec encodage OU sélectionner directement en bas à droite de la fenêtre)..."</code>
-   - Sélectionner le format Europe de l'ouest <code>cp 1252</code>
+   - Sélectionner le format Europe de l'ouest <code>ISO-8859-1</code>
    - Effectuer l'enregistrement en ".ini" (arcdps_lang.ini).
 
 **font.ttf**
