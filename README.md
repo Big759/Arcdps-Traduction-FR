@@ -7,13 +7,14 @@
 ![alt text](https://github.com/Big759/Arcdps-Traduction-FR/blob/main/Capture.png?raw=true)
 
 ## Installation :
-### Windows
+### Windows / Linux
 1. Télécharger **arcdps_lang.ini** (arcdps) ou **arcdps_table_lang.ini** ([boon table](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)).
 
-2. Ouvrir l'Explorateur de fichiers ou avec le raccourci : Windows + E
+2. Ouvrir l'Explorateur de fichiers de votre distribution ou avec le raccourci : Windows + E / Méta / Super + E
 
 3. Déplacer le fichier dans le dossier "arcdps" se trouvant dans le dossier de Guild Wars 2. <br>
    Exemple : <code>"C:\Program Files (x86)\Guild Wars 2\addons\arcdps\"</code>
+   Exemple avec Lutris : <code>".../guild-wars-2/drive_c/Program Files/Guild Wars 2/addons/arcdps/"</code>
 
    Si le jeu n'a pas encore été lancé avec ArcDPS ces dossiers n'existent pas. <br>
    Il est possible de le créer manuellement afin de ne pas avoir à démarrer le jeu.
