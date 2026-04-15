@@ -28,7 +28,7 @@
 
 ## Notes :
 **lang.ini**
-- Si le fichier est édité, il est important de l'enregistrer avec l'encodage ANSI !
+- Si le fichier est édité, il est important de l'enregistrer avec l'encodage ANSI ou ISO-8859-1 !
 - Ne surtout pas l'enregistrer en UTF-8 sinon ArcDPS ne fonctionnera pas correctement, __ne tiendra pas compte des accents__ ou ne se chargera pas.
 
 ### Windows
