@@ -13,7 +13,8 @@
 2. Ouvrir l'Explorateur de fichiers de votre distribution ou avec le raccourci : Windows + E / Méta / Super + E
 
 3. Déplacer le fichier dans le dossier "arcdps" se trouvant dans le dossier de Guild Wars 2. <br>
-   Exemple : <code>"C:\Program Files (x86)\Guild Wars 2\addons\arcdps\"</code>
+   Exemple avec Windows : <code>"C:\Program Files (x86)\Guild Wars 2\addons\arcdps\"</code>
+   
    Exemple avec Lutris : <code>".../guild-wars-2/drive_c/Program Files/Guild Wars 2/addons/arcdps/"</code>
 
    Si le jeu n'a pas encore été lancé avec ArcDPS ces dossiers n'existent pas. <br>
