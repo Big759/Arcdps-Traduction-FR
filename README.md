@@ -6,6 +6,8 @@
 
 ![alt text](https://github.com/Big759/Arcdps-Traduction-FR/blob/main/Capture.png?raw=true)
 
+<sub>\* Arcdps étant en constante évolution, l'image ci-dessus peut ne pas représenter la version actuelle en jeu.</sub>
+
 ## Installation :
 ### Windows / Linux
 1. Télécharger **arcdps_lang.ini** (arcdps) ou **arcdps_table_lang.ini** ([boon table](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)).
