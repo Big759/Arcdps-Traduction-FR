@@ -57,6 +57,6 @@
 - Elle doit impérativement être au format TTF (True Type Fonts).
 - **Arcdps :** Elle doit être renommée "arcdps_font.ttf" afin qu'ArcDPS puisse la charger.
 - **[Raidcore (Nexus)](https://github.com/RaidcoreGG/Nexus) :** Elle doit être placée dans le dossier <code>...\Guild Wars 2\addons\Nexus\Fonts</code> et sélectionnée dans les options de style du menu Nexus. Le nommage n'a pas d'importance.
-- Taille de police recommandée : 13.0
+- Taille de police recommandée : 13.0 (sur un écran 23-24 pouces)
 
 Veuillez signaler les erreurs potentielles afin qu'elles soient corrigées.
