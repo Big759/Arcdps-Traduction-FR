@@ -126,6 +126,9 @@
 	lang[LANG_WINDOW_LOG_CBTDEFIANCEDAMAGE] = "defiance damage";
 	lang[LANG_WINDOW_LOG_AUTOSCROLL] = "auto scroll";
 	lang[LANG_WINDOW_LOG_CBTCROWDCONTROL] = "crowdcontrol";
+	lang[LANG_WINDOW_LOG_MISSILES] = "missiles";
+	lang[LANG_WINDOW_LOG_EFFECTS] = "effects";
+	lang[LANG_WINDOW_LOG_LINES_MAX] = "max scrollback";
 
 	/* metrics window */
 	lang[LANG_WINDOW_METRICS_HEADER] = "Metrics";
@@ -716,3 +719,15 @@
 	lang[LANG_COMMON_BUFFS_LISTNAME_AS_TITLE] = "use buff list name as title";
 	lang[LANG_COMMON_TIME] = "time";
 	lang[LANG_COMMON_AGENTREMOVED] = "Agent was removed";
+	lang[LANG_COMMON_SORTMATCHBUFFS] = "sort match buffs window";
+	lang[LANG_COMMON_SORTBUFFSVIABUFFS_TOOLTIP] = "Buffs window ID is displayed in title bar. Also\nlocks and matches scroll";
+	lang[LANG_COMMON_BUFFUPTIME_ACTIONS] = "as percentage casting";
+	lang[LANG_COMMON_BUFFUPTIME_ACTIONS_SHORT] = "a";
+	lang[LANG_COMMON_HIDEINCINEMATIC] = "hide windows during cinematics";
+	lang[LANG_COMMON_SORTMATCH_REVERSESCROLL] = "allow reverse scroll match";
+	lang[LANG_COMMON_SORTMATCH_REVERSESCROLL_TOOLTIP] = "Has 2+ frame delay";
+	lang[LANG_COMMON_CSK_PICKUP] = "Pickup";
+	lang[LANG_COMMON_SAFEMODE] = "safemode";
+	lang[LANG_COMMON_SAFEMODE_TOOLTIP] = "Restart required. Prevent loading of extensions, do not\naccept imgui contexts";
+	lang[LANG_COMMON_SQUADONLY] = "squad only";
+	lang[LANG_COMMON_CSK_GENERICFALLDOWN] = "Generic Fall";
