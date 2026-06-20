@@ -731,3 +731,9 @@
 	lang[LANG_COMMON_SAFEMODE_TOOLTIP] = "Restart required. Prevent loading of extensions, do not\naccept imgui contexts";
 	lang[LANG_COMMON_SQUADONLY] = "squad only";
 	lang[LANG_COMMON_CSK_GENERICFALLDOWN] = "Generic Fall";
+	lang[LANG_COMMON_SUBGROUPONLY] = "subgroup only";
+	lang[LANG_COMMON_SORTADV_MOVEMENTIMPAIRINGTODOWNSOUTSQ] = "Downs movement slow contribution";
+	lang[LANG_COMMON_SORTADV_MOVEMENTIMPAIRINGTODOWNSOUTPERSIST] = "Downs movement slow contribution";
+	lang[LANG_COMMON_SORTADV_MOVEMENTIMPAIRINGTODOWNSOUT_TOOLTIP] = "Active movement impairing buff time since 2 seconds before target dropped below full health";
+	lang[LANG_COMMON_BUFFUPTIME_ENEMY] = "as volume on enemy";
+	lang[LANG_COMMON_BUFFUPTIME_ENEMY_SHORT] = "e";
