@@ -10,7 +10,7 @@
 
 ## Installation :
 ### Windows / Linux
-1. Télécharger **arcdps_lang.ini** (arcdps) ou **arcdps_table_lang.ini** ([boon table](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)).
+1. Télécharger **arcdps_lang.ini** (arcdps) ou **arcdps_table_lang_fr.ini** ([boon table](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)).
 
 2. Ouvrir l'Explorateur de fichiers de votre distribution ou avec le raccourci : Windows + E / Méta / Super + E
 
