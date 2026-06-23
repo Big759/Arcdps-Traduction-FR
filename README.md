@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://github.com/Big759/Arcdps-Traduction-FR/releases"><img alt="Versions" src="https://img.shields.io/github/v/release/Big759/Arcdps-Traduction-FR?label=Version" /></a>
+    <a href="https://github.com/Big759/Arcdps-Traduction-FR/issues"><img alt="Tickets" src="https://img.shields.io/github/issues/Big759/Arcdps-Traduction-FR?color=0088ff&label=Tickets" /></a>
+    <a href="https://github.com/Big759/Arcdps-Traduction-FR/pulls"><img alt="Demandes d'ajout" src="https://img.shields.io/github/issues-pr/Big759/Arcdps-Traduction-FR?color=0088ff&label=Demandes%20d%27ajout" /></a>
+</p>
+
 # Arcdps-Traduction-FR
 
 - Arcdps : https://www.deltaconnected.com/arcdps/ (par deltaconnected)
