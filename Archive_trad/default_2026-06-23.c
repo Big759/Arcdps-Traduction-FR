@@ -52,13 +52,13 @@
 	lang[LANG_SKILLS_NOTARGETS] = "No targets logged";
 
 	/* dps (debug) window */
-	lang[LANG_WINDOW_DPS_HEADER] = "Self Stats";
+	lang[LANG_WINDOW_DPS_HEADER] = "Chat Stats";
 	lang[LANG_WINDOW_DPS_DAMAGE] = "damage";
 	lang[LANG_WINDOW_DPS_HEALING] = "healing";
 	lang[LANG_WINDOW_DPS_SHIELDS] = "barrier";
 
 	/* skills (debug) window */
-	lang[LANG_WINDOW_SKILLS_HEADER] = "Self Skills";
+	lang[LANG_WINDOW_SKILLS_HEADER] = "Chat Skills";
 
 	/* stats window */
 	lang[LANG_WINDOW_STATS_HEADER] = "Stats";
@@ -126,8 +126,8 @@
 	lang[LANG_WINDOW_LOG_CBTDEFIANCEDAMAGE] = "defiance damage";
 	lang[LANG_WINDOW_LOG_AUTOSCROLL] = "auto scroll";
 	lang[LANG_WINDOW_LOG_CBTCROWDCONTROL] = "crowdcontrol";
-	lang[LANG_WINDOW_LOG_MISSILES] = "missiles";
-	lang[LANG_WINDOW_LOG_EFFECTS] = "effects";
+	lang[LANG_WINDOW_LOG_MISSILES] = "missile";
+	lang[LANG_WINDOW_LOG_EFFECTS] = "effect";
 	lang[LANG_WINDOW_LOG_LINES_MAX] = "max scrollback";
 
 	/* metrics window */
@@ -156,7 +156,7 @@
 	lang[LANG_WINDOW_OPTIONS_OPENLOGSFOLDER] = "open";
 	lang[LANG_WINDOW_OPTIONS_STYLE] = "Style";
 	lang[LANG_WINDOW_OPTIONS_COLOURSIMGUI] = "Colours";
-	lang[LANG_WINDOW_OPTIONS_COLOURSARC] = "Basic";
+	lang[LANG_WINDOW_OPTIONS_COLOURSARC] = "Arc";
 	lang[LANG_WINDOW_OPTIONS_COLOURSPROF] = "Profession";
 	lang[LANG_WINDOW_OPTIONS_COLOURSSQUAD] = "Squad";
 	lang[LANG_WINDOW_OPTIONS_APPEARANCE] = "Appearance";
@@ -275,19 +275,18 @@
 	lang[LANG_COMMON_TOPSUBGROUPS] = "top subgroups";
 	lang[LANG_COMMON_BUFFTOTAL] = "buffs total";
 	lang[LANG_COMMON_MAP] = "Map load";
-	lang[LANG_COMMON_LOGCH_COMBATLOCAL] = "combat local";
-	lang[LANG_COMMON_LOGCH_COMBATAREASELF] = "combat area (self)";
-	lang[LANG_COMMON_LOGCH_COMBATAREASQUAD] = "combat area (squad)";
-	lang[LANG_COMMON_LOGCH_ENGINE] = "engine";
+	lang[LANG_COMMON_LOGCH_COMBATLOCAL] = "combat (chat)";
+	lang[LANG_COMMON_LOGCH_COMBATAREASELF] = "combat (self)";
+	lang[LANG_COMMON_LOGCH_COMBATAREASQUAD] = "combat (squad)";
+	lang[LANG_COMMON_LOGCH_ARC] = "arc";
 	lang[LANG_COMMON_HIDEINCOMBAT] = "hide windows during combat";
 	lang[LANG_COMMON_OPTSCLIENT] = "Client";
 	lang[LANG_COMMON_NEEDSRESTART] = "Needs restart";
 	lang[LANG_COMMON_HISTORICAL_SQUAD] = "squad fights to keep";
 	lang[LANG_COMMON_UEH] = "ignore crashes on game build";
-	lang[LANG_COMMON_FONTSIZE] = "font size";
-	lang[LANG_COMMON_FONTSIZEINFO] = "Custom font can be loaded by placing\narcdps_font.ttf in config folder";
+	lang[LANG_COMMON_FONTINFO] = "Custom fonts can be loaded by placing arcdps_font.ttf\nin config directory, font options can be changed under advanced";
 	lang[LANG_COMMON_LOGSPATH] = "save logs to:";
-	lang[LANG_COMMON_LOGSPATHINFO] = "Logging folder";
+	lang[LANG_COMMON_LOGSPATHINFO] = "Logging directory";
 	lang[LANG_COMMON_BUFFIDS] = "buff table ids csv:";
 	lang[LANG_COMMON_BUFFIDSAPPLY] = "apply";
 	lang[LANG_COMMON_BOSSIDS] = "Additional boss IDs";
@@ -302,7 +301,6 @@
 	lang[LANG_COMMON_KEYS_CHCLI] = "stats";
 	lang[LANG_COMMON_KEYS_BUFFS] = "buffs";
 	lang[LANG_COMMON_KEYS_DETAILS] = "details";
-	lang[LANG_COMMON_LOG_TO_FILE] = "log to file";
 	lang[LANG_COMMON_DODGEUPTIME] = "dodge uptime";
 	lang[LANG_COMMON_SORTADV_STRIPPERSIST] = "Strips";
 	lang[LANG_COMMON_SORTADV_CLEANSEPERSIST] = "Cleanses";
@@ -333,24 +331,23 @@
 	lang[LANG_COMMON_SORTADV_DOWNSOUTSQ] = "Downs count";
 	lang[LANG_COMMON_HIGHLIGHTLOADINGRED] = "use red names for players loading";
 	lang[LANG_COMMON_OPTSLIMITTOLAST] = "limit to last";
-	lang[LANG_COMMON_OPTSAPPEARANCE_TOOLTIP] = "Appearance";
+	lang[LANG_COMMON_OPTSAPPEARANCE_ADVANCED] = "Advanced";
 	lang[LANG_COMMON_COPYSELFTOP] = "self on top";
 	lang[LANG_COMMON_HIDESELF] = "hide self from list";
 	lang[LANG_COMMON_COLOURSARCCHCLI] = "Stats";
 	lang[LANG_COMMON_COLOURSARCBUFFS] = "Buffs";
-	lang[LANG_COMMON_COLOURSARCLISTS] = "Lists";
 	lang[LANG_COMMON_DEFENSIVE] = "defensive";
 	lang[LANG_COMMON_DRAWDAMAGE] = "draw damage graph on top";
-	lang[LANG_COMMON_RESETSTYLE] = "reset to default style";
+	lang[LANG_COMMON_RESETSTYLE] = "reset all to default style";
 	lang[LANG_COMMON_SORTADV_DEFIANCEDAMAGEPERSIST] = "Defiance damage";
 	lang[LANG_COMMON_SORTADV_DEFIANCEDAMAGESQ] = "Defiance damage";
 	lang[LANG_COMMON_LOGCH_EXTENSION] = "extension";
 	lang[LANG_COMMON_CUSTOMNAME] = "shown name in options";
 	lang[LANG_COMMON_MANUAL] = "manual";
-	lang[LANG_COMMON_CLICKMOD_TOOLTIP] = "Unsupported, shift may not work. Hold modifiers to enable checkbox";
+	lang[LANG_COMMON_CLICKMOD_TOOLTIP] = "Unsupported";
 	lang[LANG_COMMON_PINGHIGHLIGHTSPIKE] = "highlight ping spikes";
 	lang[LANG_COMMON_SERVERTICKHIGHLIGHTSPIKE] = "highlight map tick rate spikes";
-	lang[LANG_COMMON_METRICFORMAT_TOOLTIP] = "@1: framerate\n@2: ping\n@3: map tick rate\n@4: arc tick rate\n\\n: newline";
+	lang[LANG_COMMON_METRICFORMAT_TOOLTIP] = "@1: framerate\n@2: ping\n@3: map tick rate\n@4: arc tick rate\n@5: squad combat time\n\\n: newline";
 	lang[LANG_COMMON_METRICFORMAT] = "metric format";
 	lang[LANG_COMMON_PROFICONS] = "profession icons";
 	lang[LANG_COMMON_SUBGROUPAVERAGE] = "subgroup average";
@@ -358,8 +355,8 @@
 	lang[LANG_COMMON_ONETARGETNOMINAL] = "1 target nominal";
 	lang[LANG_COMMON_FIVETARGETNOMINAL] = "5 target nominal";
 	lang[LANG_COMMON_TENTARGETNOMINAL] = "10 target nominal";
-	lang[LANG_COMMON_PROFICONS_TOOLTIP] = "Custom icons can be loaded by creating\nan \"icons\" folder in config, using\nnames 001.png to 009.png and e101, e102.png\nto e902.png for elite specializations";
-	lang[LANG_COMMON_BUFFLISTSINFO] = "Buff IDs can be found in details\nwindow buff tooltips. Drag == and drop to\nrearrange list";
+	lang[LANG_COMMON_PROFICONSINFO] = "Custom icons can be loaded by placing them in \"icons\" in config\ndirectory, using names 001.png to 009.png and e101, e102.png to\ne902.png for elite specializations";
+	lang[LANG_COMMON_BUFFLISTSINFO] = "Buff IDs can be found in details window\ntooltips or wiki. Drag == and drop to\nrearrange list. Set first buff to 0 to\nreload default";
 	lang[LANG_COMMON_BUFFLIST] = "buff list";
 	lang[LANG_COMMON_LIMITNOMINALMAXIMUM] = "limit in to nominal (maximum)";
 	lang[LANG_COMMON_OUT] = "out";
@@ -415,7 +412,6 @@
 	lang[LANG_COMMON_SHOWTARGET] = "show target";
 	lang[LANG_COMMON_SQSTAT_DPSOUT_TARGET] = "dps out target";
 	lang[LANG_COMMON_SQSTAT_DPSIN_TARGET] = "dps in target";
-	lang[LANG_COMMON_SUBGROUPAVGONLY] = "subgroup average only";
 	lang[LANG_COMMON_NOALLFLOATTEXT] = "suppress all floating text";
 	lang[LANG_COMMON_SHOWMINMAXINDICATOR] = "min/max line indicator";
 	lang[LANG_COMMON_SAVEWVWLOGSTHRESHOLDSQUADPCT] = "percent squad participants";
@@ -443,12 +439,12 @@
 	lang[LANG_COMMON_BUFFUPTIME_POLL] = "as percentage polled";
 	lang[LANG_COMMON_BUFFUPTIME_VOLUME_TOOLTIP] = "as volume applied";
 	lang[LANG_COMMON_BUFFUPTIME_DAMAGEIN] = "use hits taken";
-	lang[LANG_COMMON_SUBGROUPONLY] = "subgroup only";
+	lang[LANG_COMMON_OWNSUBGROUPONLY] = "own subgroup only";
 	lang[LANG_COMMON_OPTIONS_EXTENSIONS] = "Extensions";
 	lang[LANG_COMMON_WVWVISIBILITYSPLIT_TOOLTIP] = "Visibility is split between WvW and PvE";
 	lang[LANG_COMMON_AREASTATSEXTRAINFO] = "Stats";
 	lang[LANG_COMMON_BUFFSEXTRAINFO] = "Buffs";
-	lang[LANG_COMMON_CRASHPASSTHROUGH_TOOLTIP] = "Skip arc crash handler when game build matches client";
+	lang[LANG_COMMON_CRASHPASSTHROUGH_TOOLTIP] = "Skip arc crash handler if value matches game build number";
 	lang[LANG_COMMON_GADGET_TOOLTIP] = "Gadget";
 	lang[LANG_COMMON_ENABLED_TOOLTIP] = "Enabled";
 	lang[LANG_COMMON_ADD] = "add";
@@ -469,12 +465,12 @@
 	lang[LANG_COMMON_MAXBUFFOUT] = "max buff generation";
 	lang[LANG_COMMON_IN_SHORT] = "i";
 	lang[LANG_COMMON_OUT_SHORT] = "o";
-	lang[LANG_COMMON_BUFFAVGALLHITS] = "avg all hits";
-	lang[LANG_COMMON_BUFFAVGSELECTEDHITS] = "avg selected";
-	lang[LANG_COMMON_BUFFGENERATION_ANY] = "as volume on any";
+	lang[LANG_COMMON_BUFFAVGALLHITS] = "average all hits";
+	lang[LANG_COMMON_BUFFAVGSELECTEDHITS] = "average selected";
+	lang[LANG_COMMON_BUFFGENERATION_FRIENDLY] = "as volume on friendly";
 	lang[LANG_COMMON_BUFFGENERATION_SQUAD] = "as volume on squad";
 	lang[LANG_COMMON_BUFFGENERATION_SUBGROUP] = "as volume on subgroup";
-	lang[LANG_COMMON_BUFFGENERATION_ANY_SHORT] = "a";
+	lang[LANG_COMMON_BUFFGENERATION_FRIENDLY_SHORT] = "f";
 	lang[LANG_COMMON_BUFFGENERATION_SQUAD_SHORT] = "s";
 	lang[LANG_COMMON_BUFFGENERATION_SUBGROUP_SHORT] = "g";
 	lang[LANG_COMMON_SKILLS_SHORT] = "s";
@@ -520,11 +516,11 @@
 	lang[LANG_COMMON_SHOWTABS_PAGE] = "title bar lists buttons";
 	lang[LANG_COMMON_SHOWTABS_METHOD] = "title bar method buttons";
 	lang[LANG_COMMON_VERSIONCHECKEXT_TOOLTIP] = "If supported by the extension";
-	lang[LANG_COMMON_SORTCHCLI] = "sort match window";
+	lang[LANG_COMMON_SORTMATCHSTATS] = "sort match stats window";
 	lang[LANG_COMMON_EXTENSIONWINDOWS] = "Extension Windows";
-	lang[LANG_COMMON_SORTCHCLI_TOOLTIP] = "Stats window ID is displayed in title bar. Must use ID lower\nthan current window";
-	lang[LANG_COMMON_SORTCHCLI_MATCHSCROLL] = "also match scroll";
-	lang[LANG_COMMON_SORTCHCLI_MATCHSCROLL_TOOLTIP] = "Works only if same height window, disables scrolling";
+	lang[LANG_COMMON_SORTMATCHSTATS_TOOLTIP] = "Stats window ID is displayed in title bar. Must use ID lower\nthan current window";
+	lang[LANG_COMMON_SORTMATCHSTATS_MATCHSCROLL] = "also match scroll";
+	lang[LANG_COMMON_SORTMATCHSTATS_MATCHSCROLL_TOOLTIP] = "Works best if same height window";
 	lang[LANG_COMMON_HIDEHEADERROW] = "hide header row";
 	lang[LANG_COMMON_USETHISBUFFLIST] = "use this buff list";
 	lang[LANG_COMMON_CSK_DODGE] = "Dodge";
@@ -590,12 +586,8 @@
 	lang[LANG_COMMON_DEFAULTSQUADLOGNAME_PVE] = "PvE";
 	lang[LANG_COMMON_PLAYERSUBGROUPCOLOURS] = "use subgroup for player colours";
 	lang[LANG_COMMON_TITLEBUTTONS] = "title bar buttons";
-	lang[LANG_COMMON_PLAYERPROFFSIONCOLOURS] = "use profession for player colours";
-	lang[LANG_COMMON_PLAYERPROFFSIONCOLOURS_SHORT] = "p";
-	lang[LANG_COMMON_PLAYERSUBGROUPCOLOURS_SHORT] = "s";
-	lang[LANG_COMMON_PLAYERUNIQUECOLOURS_SHORT] = "u";
 	lang[LANG_COMMON_TIMERANGEFULL] = "full time range";
-	lang[LANG_COMMON_TIMERANGEFULL_SHORT] = "f";
+	lang[LANG_COMMON_TIMERANGEFULL_SHORT] = "a";
 	lang[LANG_COMMON_TIMERANGEROLLING] = "rolling time range";
 	lang[LANG_COMMON_TIMERANGEROLLING_SHORT] = "r";
 	lang[LANG_COMMON_FILTER] = "filter";
@@ -619,8 +611,8 @@
 	lang[LANG_COMMON_SORTADV_CROWDCONTROLTODOWNSOUTPERSIST] = "Downs crowd control contribution";
 	lang[LANG_COMMON_SORTADV_CROWDCONTROLTODOWNSOUTSQ_TOOLTIP] = "Crowd control count since 2 seconds before target dropped below full health";
 	lang[LANG_COMMON_PLAYERS] = "players";
-	lang[LANG_COMMON_SORTCHCLIVIABUFFS_TOOLTIP] = "Stats window ID is displayed in title bar";
-	lang[LANG_COMMON_IGNOREWVWCONDITIONSHISTORICAL] = "ignore WvW conditions for historical";
+	lang[LANG_COMMON_SORTSTATSVIABUFFS_TOOLTIP] = "Stats window ID is displayed in title bar";
+	lang[LANG_COMMON_IGNOREWVWCONDITIONSHISTORICAL] = "ignore wvw conditions for history";
 	lang[LANG_COMMON_IGNOREWVWCONDITIONSHISTORICAL_TOOLTIP] = "Only requires player damage";
 	lang[LANG_COMMON_CALCBUFFSINGLEONLY_TOOLTIP] = "Calculate as uptime percentage instead of average";
 	lang[LANG_COMMON_ACTIVATIONSECOND_SHORT] = "as";
@@ -737,3 +729,11 @@
 	lang[LANG_COMMON_SORTADV_MOVEMENTIMPAIRINGTODOWNSOUT_TOOLTIP] = "Active movement impairing buff time since 2 seconds before target dropped below full health";
 	lang[LANG_COMMON_BUFFUPTIME_ENEMY] = "as volume on enemy";
 	lang[LANG_COMMON_BUFFUPTIME_ENEMY_SHORT] = "e";
+	lang[LANG_COMMON_SQUAD_SUM] = "squad sum";
+	lang[LANG_COMMON_SELF] = "self";
+	lang[LANG_COMMON_SQUAD_SUM_SHORT] = "m";
+	lang[LANG_COMMON_SUBGROUP_SHORT] = "g";
+	lang[LANG_COMMON_SELF_SHORT] = "s";
+	lang[LANG_COMMON_SORTADV_MISSILEINCOMINGHITSQ] = "Incoming missile effectiveness";
+	lang[LANG_COMMON_SORTADV_MISSILEINCOMINGHITPERSIST] = "Incoming missile effectiveness";
+	lang[LANG_COMMON_SORTADV_MISSILEINCOMINGHIT_TOOLTIP] = "Incoming missile launch to hit ratio (tooltip: miss rate)";
