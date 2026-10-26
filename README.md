@@ -1,5 +1,6 @@
 <p align="center">
-    <a href="https://github.com/Big759/Arcdps-Traduction-FR/releases"><img alt="Versions" src="https://img.shields.io/github/v/release/Big759/Arcdps-Traduction-FR?label=Version" /></a>
+    <a href="https://github.com/Big759/Arcdps-Traduction-FR/releases/latest"><img alt="Téléchargements" src="https://img.shields.io/github/downloads/Big759/Arcdps-Traduction-FR/total?color=green&label=T%C3%A9l%C3%A9chargements" /></a>
+    <a href="https://github.com/Big759/Arcdps-Traduction-FR/releases"><img alt="Versions" src="https://img.shields.io/github/v/release/Big759/Arcdps-Traduction-FR?color=green&label=Version" /></a>
     <a href="https://github.com/Big759/Arcdps-Traduction-FR/issues"><img alt="Tickets" src="https://img.shields.io/github/issues/Big759/Arcdps-Traduction-FR?color=0088ff&label=Tickets" /></a>
     <a href="https://github.com/Big759/Arcdps-Traduction-FR/pulls"><img alt="Demandes d'ajout" src="https://img.shields.io/github/issues-pr/Big759/Arcdps-Traduction-FR?color=0088ff&label=Demandes%20d%27ajout" /></a>
 </p>
@@ -68,6 +69,9 @@ Exemple avec Lutris :
    - Aller dans le menu <code>"Fichier"</code> puis <code>"Enregistrer sous (avec encodage OU sélectionner directement en bas à droite de la fenêtre)..."</code>
    - Sélectionner le format Europe de l'ouest <code>ISO-8859-1</code>
    - Effectuer l'enregistrement en ".ini" (arcdps_lang.ini).
+
+#### Erreurs connues (Linux)
+   - Traduction des touches : Les touches du clavier ne sont pas traduites (Shift, Space...) malgré un clavier français, c'est un problème propre à Linux (Wine, Proton, Wayland, 0000040c, KBDFR ???).
 
 ### font.ttf
 - Il est possible d'utiliser une autre police de caractères que celle proposée.
