@@ -37,16 +37,12 @@
 	lang[LANG_SKILLS_WASTED] = "time wasted";
 	lang[LANG_SKILLS_HITSCOMPRESS] = "hits (not-aoe)";
 	lang[LANG_SKILLS_HITSTOTAL] = "hits (damage)";
-	lang[LANG_SKILLS_NINETY] = "over 90";
-	lang[LANG_SKILLS_FIFTY] = "under 50";
-	lang[LANG_SKILLS_MOVING] = "moving";
 	lang[LANG_SKILLS_FLANKING] = "flanking";
 	lang[LANG_SKILLS_CRITS] = "crit";
 	lang[LANG_SKILLS_VALUE] = "total";
 	lang[LANG_SKILLS_MIN] = "min";
 	lang[LANG_SKILLS_AVG] = "avg";
 	lang[LANG_SKILLS_MAX] = "max";
-	lang[LANG_SKILLS_APXDMG] = "apx dmg";
 	lang[LANG_SKILLS_OVERSTACK] = "overstack";
 	lang[LANG_SKILLS_NOSKILLS] = "No skills logged";
 	lang[LANG_SKILLS_REMOVED] = "removed";
@@ -97,8 +93,7 @@
 	lang[LANG_WINDOW_DETAILS_STRIPPEDIN] = "strip in";
 	lang[LANG_WINDOW_DETAILS_DOWNTIME] = "time down";
 	lang[LANG_WINDOW_DETAILS_CANCELCOUNT] = "cancel count";
-	lang[LANG_WINDOW_DETAILS_SHIELD] = "vs shield";
-	lang[LANG_WINDOW_DETAILS_SHIELDEFF] = "shield eff";
+	lang[LANG_WINDOW_DETAILS_SHIELD] = "vs barrier";
 	lang[LANG_WINDOW_DETAILS_BLOCKS] = "blocks";
 	lang[LANG_WINDOW_DETAILS_ABSORBS] = "absorbs";
 	lang[LANG_WINDOW_DETAILS_DURATION] = "duration";
@@ -107,7 +102,6 @@
 	lang[LANG_WINDOW_DETAILS_PROTPCT] = "reduced";
 	lang[LANG_WINDOW_DETAILS_KILLINGBLOWS] = "killed";
 	lang[LANG_WINDOW_DETAILS_DOWNEDS] = "downed";
-	lang[LANG_WINDOW_DETAILS_DOWNEDPCT] = "vs down";
 	lang[LANG_WINDOW_DETAILS_ZEROES] = "zeroes";
 	lang[LANG_WINDOW_DETAILS_MISSILERATIO] = "missiles";
 
@@ -169,7 +163,7 @@
 
 	/* skill things 2 */
 	lang[LANG_SKILLS2_NOEVENTS] = "No events";
-	lang[LANG_SKILLS2_SHIELDED] = "shielded";
+	lang[LANG_SKILLS2_SHIELDED] = "barriered";
 	lang[LANG_SKILLS2_HITSANY] = "hits (all)";
 	lang[LANG_SKILLS2_DMGPHYS] = "dmg (strike)";
 	lang[LANG_SKILLS2_DMGBUFF] = "dmg (buff)";
@@ -177,7 +171,7 @@
 	lang[LANG_SKILLS2_PROTECTED] = "reduced";
 	lang[LANG_SKILLS2_KILLINGBLOWS] = "killed";
 	lang[LANG_SKILLS2_DOWNEDS] = "downed";
-	lang[LANG_SKILLS2_VALUESHIELD] = "shield total";
+	lang[LANG_SKILLS2_VALUESHIELD] = "barrier total";
 	lang[LANG_SKILLS2_BLOCKS] = "blocks";
 	lang[LANG_SKILLS2_EVADES] = "evades";
 	lang[LANG_SKILLS2_ABSORBS] = "absorbs";
@@ -236,7 +230,7 @@
 	lang[LANG_COMMON_SORTSUBGROUP] = "sort by subgroup";
 	lang[LANG_COMMON_MEMARC] = "Mem arc";
 	lang[LANG_COMMON_DETAILED] = "detailed";
-	lang[LANG_COMMON_SIMDISABLED] = "Simulation disabled";
+	lang[LANG_COMMON_PVPDISABLED] = "Disabled during PvP match";
 	lang[LANG_COMMON_SORTSTATS] = "stats";
 	lang[LANG_COMMON_SHOWADVANCEDSTYLEOPTSRETROACTIVE] = "Changes to default style will not apply when advanced options are\nenabled";
 	lang[LANG_COMMON_SORTADV_TIMESDOWNSQ] = "Times downed";
@@ -321,8 +315,8 @@
 	lang[LANG_COMMON_WINDOW_RELATIVE_WINDOW] = "from window name";
 	lang[LANG_COMMON_WINDOW_RELATIVE_POINTATTACHTO] = "to this window corner";
 	lang[LANG_COMMON_WINDOW_RELATIVE_POINTATTACHFROM] = "from anchor window corner";
-	lang[LANG_COMMON_SORTADV_TAGDISTPERSIST] = "Average distance to tag";
-	lang[LANG_COMMON_SORTADV_TAGDISTSQ] = "Average distance to tag";
+	lang[LANG_COMMON_SORTADV_TAGDISTPERSIST] = "Average distance to commander";
+	lang[LANG_COMMON_SORTADV_TAGDISTSQ] = "Average distance to commander";
 	lang[LANG_COMMON_WVW] = "WvW";
 	lang[LANG_COMMON_PVE] = "PvE";
 	lang[LANG_COMMON_PRIMARYSTAT_OUTGOING] = "Primary stat - outgoing";
@@ -374,7 +368,7 @@
 	lang[LANG_COMMON_SQSTAT_SQUADROWS] = "squad rows";
 	lang[LANG_COMMON_SQSTAT_MAX] = "max";
 	lang[LANG_COMMON_KEYS_GRAPHS] = "graphs";
-	lang[LANG_COMMON_DEFAULTSQUADLOGNAME] = "WvW";
+	lang[LANG_COMMON_DEFAULTSQUADLOGNAME_WVW] = "WvW";
 	lang[LANG_COMMON_COMBINEDMEMORYLIMIT] = "combined memory limit";
 	lang[LANG_COMMON_OPTSHISTORICALINFO] = "Fights";
 	lang[LANG_COMMON_TIMESTRIDE] = "stride";
@@ -442,11 +436,11 @@
 	lang[LANG_COMMON_BUFFUPTIME_DAMAGEIN] = "use hits taken";
 	lang[LANG_COMMON_OWNSUBGROUPONLY] = "own subgroup only";
 	lang[LANG_COMMON_OPTIONS_EXTENSIONS] = "Extensions";
-	lang[LANG_COMMON_VISIBILITYSPLIT_TOOLTIP] = "Visibility is split between WvW and PvE. Right-click\nto change per-spec or character visibility";
+	lang[LANG_COMMON_VISIBILITYSPLIT_TOOLTIP] = "Visibility is split between WvW, PvP, and PvE. Right-click\nto change per-spec or character visibility";
 	lang[LANG_COMMON_AREASTATSEXTRAINFO] = "Stats";
 	lang[LANG_COMMON_BUFFSEXTRAINFO] = "Buffs";
 	lang[LANG_COMMON_CRASHPASSTHROUGH_TOOLTIP] = "Skip arc crash handler if value matches game build number";
-	lang[LANG_COMMON_GADGET_TOOLTIP] = "Gadget";
+	lang[LANG_COMMON_GADGETTARGET_TOOLTIP] = "Gadget\nSuffixed with g or can be identified through their different healthbar";
 	lang[LANG_COMMON_ENABLED_TOOLTIP] = "Enabled";
 	lang[LANG_COMMON_ADD] = "add";
 	lang[LANG_COMMON_OPTIONS_ABOUT] = "About";
@@ -455,8 +449,8 @@
 	lang[LANG_COMMON_BUFFUPTIME_VOLUME_SHORT] = "v";
 	lang[LANG_COMMON_BUFFUPTIME_BOSS] = "use hits boss";
 	lang[LANG_COMMON_KEYS_CLOSE] = "close window";
-	lang[LANG_COMMON_SAVEMAPLOGS] = "save map logs";
-	lang[LANG_COMMON_SAVEMAPLOGS_TOOLTIP] = "No maps are logged by default, ID can be found in metrics window tooltip.\nMust be enabled prior to entering instance to log";
+	lang[LANG_COMMON_SAVEINSTANCEMAPLOGS] = "save instanced map logs";
+	lang[LANG_COMMON_SAVEINSTANCEMAPLOGS_TOOLTIP] = "No maps are logged by default, ID can be found in metrics window tooltip.\nMust be enabled prior to entering instance to log";
 	lang[LANG_COMMON_SAVEMAPLOGSINFO] = "Map logging";
 	lang[LANG_COMMON_DEFAULTMAPLOGNAME] = "Map";
 	lang[LANG_COMMON_SORTADV_MINIONSPERSIST] = "Average minion count";
@@ -673,11 +667,11 @@
 	lang[LANG_COMMON_SORTADV_TIMEALIVE_TOOLTIP] = "Time spent not dead or down";
 	lang[LANG_COMMON_REFRESH_PER_SECOND] = "refresh rate per second";
 	lang[LANG_COMMON_REFRESH_PER_SECOND_TOOLTIP] = "Frequent refreshing may have a negative effect on performance";
-	lang[LANG_COMMON_PRIMARYSTAT_TOOLTIP] = "Stat used for sorting\nCurrent fight: from first player combat enter to last player combat exit\nNormalized: accumulated per-player individually, reset as per interface options";
+	lang[LANG_COMMON_PRIMARYSTAT_TOOLTIP] = "Stat used for sorting\nCurrent fight (PvE, WvW): from first player combat enter to last player combat exit\nCurrent fight (PvP): duration of match\nNormalized: accumulated per-player individually, reset as per interface options";
 	lang[LANG_COMMON_SORTINVERSE] = "inverse sort order";
 	lang[LANG_COMMON_GRAPHS] = "graphs";
 	lang[LANG_COMMON_PERSISTINFO_TOOLTIP] = "Will always reset on build change";
-	lang[LANG_COMMON_SECONDARYTARGET_TOOLTIP] = "Secondary target";
+	lang[LANG_COMMON_SECONDARYTARGET_TOOLTIP] = "Secondary target\nWill not start new logs but will be included in vs target stats";
 	lang[LANG_COMMON_BITMAPFONT] = "use bitmap font";
 	lang[LANG_COMMON_BITMAPFONT_TOOLTIP] = "Pre-1.92 default. Restart required";
 	lang[LANG_COMMON_RESTARTREQUIRED_TOOLTIP] = "Restart required";
@@ -774,3 +768,26 @@
 	lang[LANG_COMMON_SORTADV_RESCOUNT_TOOLTIP] = "Press F to revive count";
 	lang[LANG_COMMON_SORTADV_RESTIME_TOOLTIP] = "Time spent in press F to revive";
 	lang[LANG_COMMON_LOGTARGET_TOOLTIP] = "Log target\nWill be used to start new logs";
+	lang[LANG_COMMON_STATSEXCLUDEDOWNED] = "vs/from downed";
+	lang[LANG_COMMON_TIMERANGE_ENDAT] = "End range at";
+	lang[LANG_COMMON_TIMERANGE_STARTAT] = "Start range at";
+	lang[LANG_COMMON_TIMERANGE_END] = "fight end";
+	lang[LANG_COMMON_TIMERANGE_START] = "fight start";
+	lang[LANG_COMMON_TIMERANGE_FIRSTDOWN] = "first squad down";
+	lang[LANG_COMMON_TIMERANGE_FIRSTDEAD] = "first squad death";
+	lang[LANG_COMMON_TIMERANGE_COMMANDERDEAD] = "commander death";
+	lang[LANG_COMMON_TIMERANGE_PVPDAMAGE] = "pvp damage";
+	lang[LANG_COMMON_SORTADV_TAGMOVERATIOSQ] = "Movement with commander ratio";
+	lang[LANG_COMMON_SORTADV_TAGMOVERATIOPERSIST] = "Movement with commander ratio";
+	lang[LANG_COMMON_SORTADV_TAGMOVERATIO_TOOLTIP] = "Player is moving while commander is moving. Does not count time while unable to move";
+	lang[LANG_COMMON_HISTORICALSELECTED_SHORT] = "H";
+	lang[LANG_COMMON_RANGESELECTED_SHORT] = "R";
+	lang[LANG_COMMON_AFFECTEDBYRANGE] = "affected by range";
+	lang[LANG_COMMON_SAVEPVPMAPLOGS] = "save pvp map logs";
+	lang[LANG_COMMON_SAVEPVPMAPLOGS_TOOLTIP] = "All PvP type maps are logged by default";
+	lang[LANG_COMMON_VISIBILITYSPLIT_PVP] = "visible in PvP";
+	lang[LANG_COMMON_PVP] = "PvP";
+	lang[LANG_COMMON_HIDEINPVPMATCH] = "hide windows during pvp match";
+	lang[LANG_COMMON_DEFAULTSQUADLOGNAME_PVP] = "PvP";
+	lang[LANG_COMMON_VISIBILITYSPLIT_HIDEIFOTHERSSPEC] = "hide if other windows have specialization set";
+	lang[LANG_COMMON_VISIBILITYSPLIT_HIDEIFOTHERSCHAR] = "hide if other windows have character set";
