@@ -8,6 +8,7 @@
 # Arcdps-Traduction-FR
 
 - Arcdps : https://www.deltaconnected.com/arcdps/ (par deltaconnected)
+- Boontable : https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table (par knoxfighter)
 - **Téléchargement :** La traduction française la plus récente est disponible [ICI](https://github.com/Big759/Arcdps-Traduction-FR/releases/latest)
 - Le projet est aussi disponible sur Codeberg [ICI](https://codeberg.org/Big_or_no/Arcdps-Traduction-FR)
 
