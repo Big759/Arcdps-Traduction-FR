@@ -5,6 +5,7 @@
     <a href="https://github.com/Big759/Arcdps-Traduction-FR/pulls"><img alt="Demandes d'ajout" src="https://img.shields.io/github/issues-pr/Big759/Arcdps-Traduction-FR?color=0088ff&label=Demandes%20d%27ajout" /></a>
 </p>
 
+### Le projet TaimiHUD est désormais traduit en français, voir la version compilée : [ICI](https://github.com/Big759/TaimiHUD/releases)
 # Arcdps-Traduction-FR
 
 - Arcdps : https://www.deltaconnected.com/arcdps/ (par deltaconnected)
